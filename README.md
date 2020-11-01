@@ -11,9 +11,9 @@ Two modules are used in this project:
   
 They can be installed by running these command in terminal:
 
-  pip install PyQt5
+    pip install PyQt5
   
-  pip install Pillow
+    pip install Pillow
   
 To run the app photo_editor.py file must be executed.
 
